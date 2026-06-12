@@ -1,0 +1,6 @@
+name: z1_dart_translator
+description: 一个最原始方便学习的翻译引擎，无需联网，算法完整，展示全过程。
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'

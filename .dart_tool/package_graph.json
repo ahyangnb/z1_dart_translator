@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "z1_dart_translator"
+  ],
+  "packages": [
+    {
+      "name": "z1_dart_translator",
+      "version": "0.1.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
